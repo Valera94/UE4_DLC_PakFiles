@@ -1,4 +1,4 @@
 $NUM_ENTRIES = 2
 $BUILD_ID = PatherDemo-Development
-pakchunk1-WindowsNoEditor.pak	39500347	Version001	1	/Windows/pakchunk1-WindowsNoEditor.pak
-pakchunk2-WindowsNoEditor.pak	278774	Version001	2	/Windows/pakchunk2-WindowsNoEditor.pak
+pakchunk1-WindowsNoEditor.pak	39500347	Version001	1	/pakchunk1-WindowsNoEditor.pak
+pakchunk2-WindowsNoEditor.pak	278774	Version001	2	/pakchunk2-WindowsNoEditor.pak
