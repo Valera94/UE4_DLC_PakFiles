@@ -1,0 +1,22 @@
+{
+	"ClientVersion": "release1",
+	"BuildUrl": "release1/WindowsNoEditor",
+	"files": [
+		{
+			"filename": "TestDLC_pakchunk1release1.manifest",
+			"uniqueFilename": "TestDLC_pakchunk1release1.manifest",
+			"length": 1270,
+			"URL": "TestDLC_pakchunk1release1.manifest",
+			"hash": "81C15D96C2C078C248F06332B4214E094DFD3BFA",
+			"hash256": "F0A5C5D073ADD45458AB1E32143BB7A839A0D4A530F783BD44E5C98166CD297B"
+		},
+		{
+			"filename": "TestDLC_pakchunk2release1.manifest",
+			"uniqueFilename": "TestDLC_pakchunk2release1.manifest",
+			"length": 937,
+			"URL": "TestDLC_pakchunk2release1.manifest",
+			"hash": "70FA3ED1BF3E55F68A71A6AF9F0AF54BB744D26C",
+			"hash256": "5544534574E17590EABB64A4A3A15C3A8A45260F2811FBBC68AAF5547CBDB583"
+		}
+	]
+}
