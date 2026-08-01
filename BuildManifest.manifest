@@ -1,4 +1,0 @@
-$NUM_ENTRIES = 2
-$BUILD_ID = PatherDemo-Development
-pakchunk1-WindowsNoEditor.pak	1201999	Version001	1	Paks/Windows/pakchunk2-WindowsNoEditor.pak
-pakchunk2-WindowsNoEditor.pak	254085	Version001	2	Paks/Windows/pakchunk2-WindowsNoEditor.pak
