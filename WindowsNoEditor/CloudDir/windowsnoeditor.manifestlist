@@ -1,0 +1,54 @@
+{
+	"ClientVersion": "version1",
+	"BuildUrl": "version1/WindowsNoEditor",
+	"files": [
+		{
+			"filename": "PresentationProject_pakchunk101version1.manifest",
+			"uniqueFilename": "PresentationProject_pakchunk101version1.manifest",
+			"length": 953,
+			"URL": "PresentationProject_pakchunk101version1.manifest",
+			"hash": "057DB8B16541B1C001484227B86032054D56660F",
+			"hash256": "7E7F7C55706C51E9D89C21E02F167AC6BFBE5D2B8F1D108A7608E0C1B504B4AC"
+		},
+		{
+			"filename": "PresentationProject_pakchunk102version1.manifest",
+			"uniqueFilename": "PresentationProject_pakchunk102version1.manifest",
+			"length": 953,
+			"URL": "PresentationProject_pakchunk102version1.manifest",
+			"hash": "6413F544DC75289BD15A39C7C6D989FEF8A86756",
+			"hash256": "FA0A96DA8BFB68ED9699D4748C33ACD42A6C2D6C143DA08E38A0559198E836A9"
+		},
+		{
+			"filename": "PresentationProject_pakchunk103version1.manifest",
+			"uniqueFilename": "PresentationProject_pakchunk103version1.manifest",
+			"length": 953,
+			"URL": "PresentationProject_pakchunk103version1.manifest",
+			"hash": "CC5D55E5BAEAE6CBEA51D4FF17EA87BD02A573AE",
+			"hash256": "B330383DB7777FD2A07CF5D123B74F583E6EEDBB97A07024C557E405E60467D5"
+		},
+		{
+			"filename": "PresentationProject_pakchunk104version1.manifest",
+			"uniqueFilename": "PresentationProject_pakchunk104version1.manifest",
+			"length": 953,
+			"URL": "PresentationProject_pakchunk104version1.manifest",
+			"hash": "1E43907C611B0D3AC4FC8146E2941848DD8996B7",
+			"hash256": "C4393856FB0738F4FD221A42A247FF355933AD88866F9185DC1416CC2D99C2F5"
+		},
+		{
+			"filename": "PresentationProject_pakchunk110version1.manifest",
+			"uniqueFilename": "PresentationProject_pakchunk110version1.manifest",
+			"length": 953,
+			"URL": "PresentationProject_pakchunk110version1.manifest",
+			"hash": "DFBA3DB5B9272D30AD5A6C271FD38CC0C7C3648F",
+			"hash256": "DCEA4216D864B9008C50EE19471C9FE1F2828DB29EB82B8835A6B42121A54A2D"
+		},
+		{
+			"filename": "PresentationProject_pakchunk111version1.manifest",
+			"uniqueFilename": "PresentationProject_pakchunk111version1.manifest",
+			"length": 953,
+			"URL": "PresentationProject_pakchunk111version1.manifest",
+			"hash": "953FE5A3DFA3BBEBA9474DE31344142D7B6AF88C",
+			"hash256": "2FC343B2379D143214CAB001E796FCB5FCBDF12E1335DCFE50DB3E4C6016E9FE"
+		}
+	]
+}
