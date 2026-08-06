@@ -1,0 +1,11 @@
+{
+  "game_version": "1.0.5",
+  "dlc_manifests": {
+    "chunk_3": {
+      "build_version": 3,
+      "url": "https://raw.githubusercontent.com/Valera94/UE4_DLC_PakFiles/main/WindowsNoEditor/ManifestDir/Novella_pakchunk3-3.manifest",
+      "required_game_version": "1.0.4"
+    }
+  },
+  "message": "Критическое исправление сохранения."
+}
