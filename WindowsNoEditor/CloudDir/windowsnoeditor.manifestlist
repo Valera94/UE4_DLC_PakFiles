@@ -1,0 +1,22 @@
+{
+	"ClientVersion": "_1.0.0",
+	"BuildUrl": "_1.0.0/WindowsNoEditor",
+	"files": [
+		{
+			"filename": "Novella_pakchunk1_1.0.0.manifest",
+			"uniqueFilename": "Novella_pakchunk1_1.0.0.manifest",
+			"length": 935,
+			"URL": "Novella_pakchunk1_1.0.0.manifest",
+			"hash": "D45B4895B19978B9FCDB82B99883C11E9B152B10",
+			"hash256": "72FC43CC36FDE65D29D375130919B52DB7F5D17DF5CEB32905A1827ACDF4CA8B"
+		},
+		{
+			"filename": "Novella_pakchunk2_1.0.0.manifest",
+			"uniqueFilename": "Novella_pakchunk2_1.0.0.manifest",
+			"length": 935,
+			"URL": "Novella_pakchunk2_1.0.0.manifest",
+			"hash": "43AE4734DB4C3E2DA3C2408D2319E7B87296965C",
+			"hash256": "477FFBBFFA4AED27A85904806432978F2C2D7A36CFC87223423E5360A308170F"
+		}
+	]
+}
